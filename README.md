@@ -1,2 +1,2 @@
-class_to_list_jquery
-====================
+Asignar clases de forma dinamica con Jquery
+===========================================
